@@ -1,4 +1,4 @@
-# docker-dacp (Docker, Alpine, Caddy, PHP)
+# docker-acp (Docker, Alpine, Caddy, PHP)
 
 Created to serve [PHP-SLIM application](https://www.slimframework.com/).
 
