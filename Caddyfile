@@ -1,4 +1,6 @@
 http://0.0.0.0:80 {
+  log / stdout "{combined}"
+  errors stderr
   fastcgi / 127.0.0.1:9000 php {
     index index.php
   }
